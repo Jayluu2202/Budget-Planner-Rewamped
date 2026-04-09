@@ -18,7 +18,19 @@ A modern, fintech-style **Finance Manager & Expense Tracker** built entirely in 
 ---
 
 ## 📱 Screenshots
+<img width="425" height="921" alt="Image" src="https://github.com/user-attachments/assets/d128b28b-3f94-4882-aa6a-ac1f2afd5974" />
 
+<img width="428" height="929" alt="Image" src="https://github.com/user-attachments/assets/a9678f66-5271-464a-8df7-abff755c6e4f" />
+
+<img width="421" height="922" alt="Image" src="https://github.com/user-attachments/assets/c3834094-1f6c-4bbd-b547-15988b4b8a0b" />
+
+<img width="428" height="946" alt="Image" src="https://github.com/user-attachments/assets/8f2885e5-6ad1-4b39-a0f2-837ced5e7e78" />
+
+<img width="408" height="920" alt="Image" src="https://github.com/user-attachments/assets/6195ee4e-2c61-43c3-b52f-6efe2ffdfe28" />
+
+<img width="428" height="938" alt="Image" src="https://github.com/user-attachments/assets/f56ba004-da26-4705-8c53-e971ff615ad5" />
+
+<img width="420" height="922" alt="Image" src="https://github.com/user-attachments/assets/33168123-ef26-47d2-8aaf-b0b6c4152b14" />
 
 ## 🎥 Demo Video
 

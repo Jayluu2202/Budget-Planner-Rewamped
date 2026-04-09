@@ -36,7 +36,9 @@ A modern, fintech-style **Finance Manager & Expense Tracker** built entirely in 
 
 ## 🎥 Demo Video
 
+**Card Flip Animation**
 
+https://github.com/user-attachments/assets/cc691cd9-2df4-4ed2-915b-a4eb73766016
 
 ## 🏗️ Architecture & Project Structure
 
